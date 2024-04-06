@@ -1,0 +1,9 @@
+* pdfparse
+
+Port of Python's pdfminer to Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jasom/pdfparse.git |
+| commit  | 80d0628                                   |
+| systems | pdfparse                                  |
+|---------+-------------------------------------------|
