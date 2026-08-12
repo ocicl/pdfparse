@@ -7,4 +7,4 @@ Port of Python's pdfminer to Lisp
 | commit  | 80d0628                                   |
 | systems | pdfparse                                  |
 |---------+-------------------------------------------|
- 
+  
